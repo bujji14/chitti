@@ -1,1 +1,6 @@
-this is the frist fiel but i have modified 
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
+
